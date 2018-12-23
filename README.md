@@ -1,5 +1,8 @@
 # VNC安裝 
-
+### 參考網站:
+```
+https://hackmd.io/_Y6hnsrVSki7GABCevJJCQ
+```
 **Install X11VNC**
 
 先進行更新(可選)
@@ -119,3 +122,7 @@ ubuntu IP查詢
 ```
 ifconfig
 ```
+PS.
+使用VMware時的port設定
+注意！！一定要使用VMware WorkStation，VMware Player無此功能
+![](https://i.imgur.com/Gqcvzek.jpg)
